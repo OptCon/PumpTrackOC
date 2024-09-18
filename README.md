@@ -1,6 +1,6 @@
 # Pump Track Biking and Ski Jumping as Benchmarks for Nonsmooth Optimal Control
 
-Matlab implementations using CasADi and nosnos. Related paper is in submission.
+Matlab implementations using CasADi and nosnoc. Related paper is in submission.
 
 ## Installation
 Requires CasADi and nosnoc in Matlab path
