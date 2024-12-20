@@ -1,4 +1,4 @@
-# Pump Track Biking and Ski Jumping as Benchmarks for Nonsmooth Optimal Control
+# Pump Track Biking and Ski Jumping as Tutorial Problems for Nonsmooth Optimal Control
 
 Matlab implementations using CasADi and nosnoc. Related paper is in submission.
 
